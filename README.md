@@ -1,4 +1,4 @@
-# The Dlx Warthog ECU Rev 2.2b
+# The Warthog ECU Rev 2.2b
 
 - Up to 6 cylinders inline
 - 1 automatic VR conditioners
