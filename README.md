@@ -6,7 +6,7 @@
 - Isolated USB connection
 - Automatic USB or Bluetooth selection
 - Reverse Curent protection & monitoring (no relays or fuses needed)
-- Fuel pump power delivery control (up to 3 pumps)
+- Fuel pump power delivery control (up to 3 pumps in //)
 - 2 VVTI control
 - Boost controler
 - Narrow or Wide Band O2 sensor compatible
