@@ -13,7 +13,7 @@
 - Isolated USB connection
 - Automatic USB or Bluetooth selection
 - Reverse Curent protection (no relays or fuses needed)
-- 2 VVTI control
+- 2 VVT control
 - Boost controler
 - Onboard Wide Band O2 sensor processing
 - High quality 6 layers ENIG pcb
