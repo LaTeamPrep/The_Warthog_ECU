@@ -6,9 +6,9 @@
 - Onboard injectors power management
 - Onboard fan power management
 - Onboard fuel pump pawer management
-- Onboar barometric sensor
+- Onboard barometric sensor
 - Onboard 4 bars MAP sensor
-- Onboar 7 bars differential sensor
+- Onboard 7 bars differential sensor
 - AC request pin
 - Isolated USB connection
 - Automatic USB or Bluetooth selection
