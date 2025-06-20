@@ -1,6 +1,6 @@
-# The Warthog ECU Rev 3.0b
+# The Warthog ECU Rev 3.0.1b
 
-- 5 cylinders
+- 4 Full Seq cylinders
 - Can drive low impedence injectors
 - No fuses needed
 - Onboard smart coils power management
@@ -11,8 +11,14 @@
 - Onboard barometric sensor
 - Onboard dual 4 bars MAP sensor
 - Reverse Curent protection
+- Reset lock
+- 1 Aux input
+- 1 Aux output
 - 2 VVT control
+- 2 IVA
 - Boost controler
+- 5th injector and COP driver remap possibility
+- Wifi
 - Onboard Wide Band O2 sensor processing
 - EGT
 - High quality 6 layers ENIG pcb
