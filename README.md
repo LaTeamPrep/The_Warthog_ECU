@@ -9,14 +9,11 @@
 - Onboard fan power management
 - Onboard fuel pump pawer management
 - Onboard barometric sensor
-- Onboard 4 bars MAP sensor
-- Onboard 7 bars differential sensor
-- Isolated USB connection
-- Automatic USB or Bluetooth selection
+- Onboard dual 4 bars MAP sensor
 - Reverse Curent protection
 - 2 VVT control
 - Boost controler
 - Onboard Wide Band O2 sensor processing
+- EGT
 - High quality 6 layers ENIG pcb
-- Automotive grade components and casing
-
+- Automotive grade components
