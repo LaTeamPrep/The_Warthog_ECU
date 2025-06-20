@@ -18,7 +18,7 @@
 - 2 IVA
 - Boost controler
 - 5th injector and COP driver remap possibility
-- 500 meters powerful and failsafe Wifi connection
+- 500 meters powerful and fail-safe Wifi connection
 - Onboard Wide Band O2 sensor processing
 - EGT
 - Water Injection capable
