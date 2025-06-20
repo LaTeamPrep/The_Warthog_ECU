@@ -18,9 +18,10 @@
 - 2 IVA
 - Boost controler
 - 5th injector and COP driver remap possibility
-- Wifi
+- 500 meters powerful and failsafe Wifi connection
 - Onboard Wide Band O2 sensor processing
 - EGT
+- Water Injection capable
 - High quality 6 layers ENIG pcb
 - Automotive grade components
 - Very small form factor
