@@ -1,4 +1,4 @@
-# The Warthog ECU Rev 3.0.1b
+# The Warthog ECU V 3.0.1 final
 
 - 4 Full Seq cylinders
 - Can drive low impedence injectors
@@ -23,3 +23,4 @@
 - EGT
 - High quality 6 layers ENIG pcb
 - Automotive grade components
+- Very small form factor
