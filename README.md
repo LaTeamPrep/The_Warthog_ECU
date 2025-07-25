@@ -1,27 +1,14 @@
-# The Warthog ECU V 3.0.1 final
+# Warthog Savana ECU V 1.0.1 beta
 
-- 4 Full Seq cylinders
+- Inline 4
+- 8 injectors for staged
+- 4 COP
 - Can drive low impedence injectors
-- No fuses needed
-- Onboard smart coils power management
-- Onboard injectors power management
-- Onboard AC power management
-- Onboard fan power management
-- Onboard fuel pump pawer management
+- No fuses No relays
+- Onboard Fuel Pump & Cooling Fan power management
 - Onboard barometric sensor
-- Onboard dual 4 bars MAP sensor
-- Reverse Curent protection
-- Reset lock
-- 1 Aux input
-- 1 Aux output
-- 2 VVT control
-- 2 IVA
-- Boost controler
-- 5th injector and COP driver remap possibility
-- 500 meters powerful and fail-safe Wifi connection
-- Onboard Wide Band O2 sensor processing
 - EGT
-- Water Injection capable
 - High quality 6 layers ENIG pcb
 - Automotive grade components
 - Very small form factor
+- !!!!! IN TESTING POCESS !!!!!
